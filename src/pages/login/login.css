@@ -1,0 +1,50 @@
+/* div {
+  font-family: 'Almarai';
+  background: rgba(229, 235, 255, 1)!important;
+} */
+a{
+  text-decoration: none !important;
+}
+.main-color{
+  background: rgba(35, 75, 219, 1)!important;
+}
+::placeholder{
+  color: black !important;
+}
+.bg-border{
+  border: 2px solid rgba(35, 75, 219, 1)!important ;
+}
+input:focus{
+  box-shadow: none !important;
+  border: 2px solid rgba(35, 75, 219, 1)!important ;
+}
+.input:focus{
+  box-shadow: none !important;
+  border: 2px solid rgba(35, 75, 219, 1)!important ;
+  border-right: 0!important;
+}
+.p{
+  position: relative;
+}
+.p::after{
+  content: "";
+  background-color: rgba(35, 75, 219, 1)!important ;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  width: 43%;
+  height: 2px;
+}
+.p::before{
+  content: "";
+  background-color: rgba(35, 75, 219, 1)!important ;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 43%;
+  height: 2px;
+}
+.social{
+  width: 55px;
+  height: 55px;
+}

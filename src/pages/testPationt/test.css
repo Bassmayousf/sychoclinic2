@@ -1,0 +1,115 @@
+.top-layer{
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 80%;
+  border-bottom: rgba(128, 128, 128, 0.377) solid 2px;
+  background-color: #CEDAFF;
+
+}
+
+.test-msg{
+  background-color:  rgba(229, 235, 255, 1) !important;
+
+}
+
+.test-btn{
+  background-color: rgba(35, 75, 219, 1) !important;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  color: white !important;
+}
+.worng-Answer {
+  background-color: #fff !important;
+  color:  rgba(35, 75, 219, 1) !important;
+  border: solid 1px rgba(35, 75, 219, 1) !important;
+
+}
+
+
+
+.img-layer{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: #000000c0;
+}
+
+.img-layer a{
+  color : white !important;
+  font: bold ; 
+  font-size: 20px;
+  text-decoration: underline !important;
+  padding: 7% !important;
+
+}
+
+img-container img{
+border-radius:20px  !important;
+-webkit-border-radius:20px  !important;
+-moz-border-radius:20px  !important;
+-ms-border-radius:20px  !important;
+-o-border-radius:20px  !important;
+}
+
+.start-btn{
+  width: 80% !important;
+  background-color: #ffffff79 !important;
+  margin-top: 10%;
+}
+
+.test-btn{
+  background-color: rgba(35, 75, 219, 1) !important;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  color: white !important;
+
+
+}
+
+.test-btn-container{
+  padding-right: 100px;
+}
+
+.test-footer-btn{
+  margin: auto;
+}
+
+.footer-title{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+
+
+}
+.test-btn-footer{
+  background-color: rgba(35, 75, 219, 1) !important;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  color: white !important;
+  width: 50px;
+  height: 50px;
+border: solid 2px black;
+
+
+
+}
+.tests-list-content-footer{
+  background-color:  rgba(229, 235, 255, 1) !important;
+
+}
+
+.tests-list-content-footer .box{
+  background-color: #fff !important;
+}

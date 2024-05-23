@@ -1,0 +1,19 @@
+.test-btn{
+  background-color: rgba(35, 75, 219, 1) !important;
+  border-radius:20px !important;
+  -webkit-border-radius:20px !important;
+  -moz-border-radius:20px !important;
+  -ms-border-radius:20px !important;
+  -o-border-radius:20px !important;
+  color: white !important;
+  
+}
+
+.chat-input{
+  border:solid 1px#0038FF !important;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
